@@ -21,6 +21,7 @@ For more info please go through the [Activities](https://ahsanulbariromi.github.
 
 ## Recent News
 
+- <span style="color:Blue"> [Dec 2021] </span> - Training on IT Security & Cyber Threats organised by Dutch Bangla Bank IT Deivision.
 - <span style="color:Blue"> [Jun 2021] </span> - Got performance bonus with an excellent grading as per the performance of 2020.
 - <span style="color:Blue"> [Feb 2021] </span> - Got confirmation of Promotion as Senior Officer (Software Development).
 
