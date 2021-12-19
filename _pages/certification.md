@@ -5,6 +5,10 @@ permalink: /certifications/
 author_profile: true
 ---
 
+- **Title:** The Complete Full Stack Java Script Course<br />
+  **Issuing Organization:** MSB Academy <br />
+  [Certificate](https://drive.google.com/file/d/1RmUhtwVMI-tQjfkdnfxg1bCVwINDHjeD/view?usp=sharing) 
+
 - **Title:** The Complete PL/SQL Bootcamp <br />
   **Issuing Organization:** Udemy <br />
   [Certificate](https://drive.google.com/file/d/1VeHLGscMa45iVm4d7n1gw6qQqNAiWqPY/view?usp=sharing)
