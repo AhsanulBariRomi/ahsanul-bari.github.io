@@ -26,7 +26,7 @@ IT Development Division <br/>
 Dutch Bangla Bank Ltd.<br />
 <i style='color:#000099;'>**February 2020 - February 2021**</i>
 
-[Download Full CV](https://drive.google.com/file/d/1KQ4ifBuesZFBKVTu2tfQXJiNb6nKghTF/view?usp=sharing) [<ins>*Last Updated on March 15, 2022*</ins>]
+[Download Full CV](https://drive.google.com/file/d/1GJ9GlFGLaJQmQoj-donsIOQB4Lo1YjwF/view?usp=sharing) [<ins>*Last Updated on June 16, 2022*</ins>]
 
 ## Contact Me
 -------------
