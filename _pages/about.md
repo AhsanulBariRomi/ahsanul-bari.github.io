@@ -20,7 +20,7 @@ For more info please go through the [Activities](https://ahsanulbariromi.github.
 **For additional information, please check out my [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/).**
 
 ## Recent News
-- <span style="color:Blue"> [Jan 2023] </span> - Being a key member of the govt. campaign <b> [Cashless Bangladesh, Smart Bangladesh.](https://thefinancialexpress.com.bd/economy/cashless-bd-campaign-starts-in-dhaka-1674098317) </b> As I have been working with the BanglaQR project from the beginning(https://sslcommerz.com/bangla-qr/).
+- <span style="color:Blue"> [Jan 2023] </span> - Being a key member of the govt. campaign <b> [Cashless Bangladesh, Smart Bangladesh.](https://thefinancialexpress.com.bd/economy/cashless-bd-campaign-starts-in-dhaka-1674098317) </b> As I have been working with the <b>[BanglaQR](https://sslcommerz.com/bangla-qr/)</b> project from the beginning.
 - <span style="color:Blue"> [Jan 2023] </span> - Training on Money Laundering and Terrorism Funding activities Conducted by Dutch Bangla Bank Training wing.
 - <span style="color:Blue"> [Oct 2022] </span> - Training on Cyber Security Awareness Conducted by Dutch Bangla Bank Training wing under the supervision of IT Security Division.
 - <span style="color:Blue"> [Dec 2021] </span> - Training on IT Security & Cyber Threats organised by Dutch Bangla Bank IT Deivision.
