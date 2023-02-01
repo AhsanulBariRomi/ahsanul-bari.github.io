@@ -29,12 +29,12 @@ For more info please go through the [Activities](https://ahsanulbariromi.github.
 
 ## Recent Project Demonstrations 
 
---> REST API using SpringBoot [October, 2022]
+<b>--> REST API using SpringBoot [October, 2022] </b>
 
 - Simplest maven project to understand the implementation of REST API [Without any DB] [CODE](https://github.com/AhsanulBariRomi/Simple_SpringBoot_REST) <br />
 - Simplest maven project to understand the implementation of REST API [With Oracle DB] (CODE](https://github.com/AhsanulBariRomi/SpringBoot_REST_withDao)
 
---> Using JS [December, 2021]
+<b>--> Using JS [December, 2021] </b>
 
 - eWallet [Demo Video](https://www.youtube.com/watch?v=RC4LydV7VXs) <br />
 - TMS Prototype [Demo Video](https://www.youtube.com/watch?v=TfQlj9YMgtM) <br />
