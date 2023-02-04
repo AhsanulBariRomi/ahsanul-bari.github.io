@@ -9,12 +9,12 @@ author_profile: true
 <b>--> REST API using SpringBoot [October, 2022] </b>
 
 - Simplest maven project to understand the implementation of REST API [Without any DB] [CODE_LINK](https://github.com/AhsanulBariRomi/Simple_SpringBoot_REST) <br />
-- Simplest maven project to understand the implementation of REST API [With Oracle DB] [CODE_LINK](https://github.com/AhsanulBariRomi/SpringBoot_REST_withDao)
+- Simplest maven project to understand the implementation of REST API [With Oracle DB, JPA] [CODE_LINK](https://github.com/AhsanulBariRomi/SpringBoot_REST_withDao)
 
 ## Personal Projects [2021]
 
 ---
-*Working with JavaScript and NodeJS. Some of the demo videos are given below:*
+<b>-->Working with JavaScript and NodeJS. Some of the demo videos are given below: </b>
 - [eWallet](https://www.youtube.com/watch?v=RC4LydV7VXs) <br />
 - [TMS Prototype](https://www.youtube.com/watch?v=TfQlj9YMgtM) <br />
 - [A shop web server with nodeJS](https://www.youtube.com/watch?v=FJtUcVkxkIQ)
