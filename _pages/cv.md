@@ -21,6 +21,16 @@ IT Development Division <br/>
 Dutch Bangla Bank Ltd<br />
 <i style='color:#000099;'>**February 2021 - Present**</i><br/>
 
+<b>Responsibilities:</b>
+●	Develop web applications using Java Spring MVC framework and Oracle PL/SQL [NexusPay Merchant Manager] 
+●	Design and develop DB architecture for internal business logic and applications (Oracle DB). [EFT Automation – Remittance System & DBBL DMS Leave Module]
+●	Develop report portals using Oracle BI Publisher and Application with Java Struts2 framework [HRMS System & DMS CTS Module]
+●	Integrating different organizations' products through vendor-provided APIs with customer-facing MFS/DFS applications. [Rocket-Biller Integration]
+●	Monitor, analyze, and test vendor-provided software, and offer support to the suppliers. [NexusPay Application]
+●	Develop a gateway with all the transaction logic to integrate our system with the application provided by the vendor to process all kinds of customer transaction requests. 	 [DBBL GateWay - NexusPay]
+●	It should be mentioned in particular, worked as a developer on the BanglaQR project and IDTP (Binimoy) Integration in the NexusPay system. 
+
+
 <b>MTO (Software Development)</b><br />
 IT Development Division <br/>
 Dutch Bangla Bank Ltd.<br />
