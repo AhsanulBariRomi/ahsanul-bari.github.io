@@ -8,9 +8,7 @@ author_profile: true
 ## Personal Projects [2022]
 ---
 
-<b>--> REST API using SpringBoot [October, 2022] </b>
-
-- Simplest maven project to understand the implementation of REST API [Without any DB] [CODE_LINK](https://github.com/AhsanulBariRomi/Simple_SpringBoot_REST) <br />
+- Simplest maven project to understand the implementation of REST API [Without any DB] [CODE_LINK](https://github.com/AhsanulBariRomi/Simple_SpringBoot_REST)
 - Simplest maven project to understand the implementation of REST API [With Oracle DB] [CODE_LINK](https://github.com/AhsanulBariRomi/SpringBoot_REST_withDao)
 
 ## Personal Projects [2021]
