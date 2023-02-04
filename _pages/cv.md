@@ -14,7 +14,7 @@ Ahsanullah University of Science and Technology<br />
 Dhaka, Bangladesh<br />
 <i style='color:#000099;'>**May 2015 - July 2019**</i>
 
-## Employment [<i style='color:#000099;'>**February 2020 - Present**</i><br/>]
+## Employment [<i style='color:#000099;'>**February 2020 - Present**</i>]<br/>
 -------------
 <b>Senior Officer (Software Development)</b><br />
 IT Development Division <br/>
@@ -28,8 +28,13 @@ Dutch Bangla Bank Ltd<br />
 ●	Integrating different organizations' products through vendor-provided APIs with customer-facing MFS/DFS applications. [Rocket-Biller Integration]<br/>
 ●	Monitor, analyze, and test vendor-provided software, and offer support to the suppliers. [NexusPay Application]<br/>
 ●	Develop a gateway with all the transaction logic to integrate our system with the application provided by the vendor to process all kinds of customer transaction requests. 	 [DBBL GateWay - NexusPay]<br/>
-●	It should be mentioned in particular, worked as a developer on the BanglaQR project, MRT Project and IDTP (Binimoy) Integration in the NexusPay system. <br/>
 
+<b>Major Achievements of 2022:</b> <br/>
+- <span style="color:Blue"> [Nov 2022] </span> - Integration of [IDTP](https://digitalmahbub.com/binimoy-platform-in-bangladesh/) in the [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html) Application. 
+<br/>
+- <span style="color:Blue"> [Jul 2022] </span> - Had the opportunity to be a key member of [BanglaQR](https://sslcommerz.com/bangla-qr/) Development process from Dutch Bangla Bank Ltd and Enabling NexusPay app to scan BanlaQR and make payments.
+
+- <span style="color:Blue"> [May 2022] </span> - Complete Back End Development of DBBL [remittance](https://en.wikipedia.org/wiki/Remittances_to_Bangladesh) system [EFT](https://en.wikipedia.org/wiki/Electronic_funds_transfer) automation which used to be handle manually.
 
 <b>MTO (Software Development)</b><br />
 IT Development Division <br/>
