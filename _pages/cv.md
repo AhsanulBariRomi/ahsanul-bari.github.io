@@ -28,7 +28,7 @@ Dutch Bangla Bank Ltd<br />
 ●	Integrating different organizations' products through vendor-provided APIs with customer-facing MFS/DFS applications. [Rocket-Biller Integration]<br/>
 ●	Monitor, analyze, and test vendor-provided software, and offer support to the suppliers. [NexusPay Application]<br/>
 ●	Develop a gateway with all the transaction logic to integrate our system with the application provided by the vendor to process all kinds of customer transaction requests. 	 [DBBL GateWay - NexusPay]<br/>
-●	It should be mentioned in particular, worked as a developer on the BanglaQR project and IDTP (Binimoy) Integration in the NexusPay system. <br/>
+●	It should be mentioned in particular, worked as a developer on the BanglaQR project, MRT Project and IDTP (Binimoy) Integration in the NexusPay system. <br/>
 
 
 <b>MTO (Software Development)</b><br />
