@@ -4,7 +4,9 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
+
 ## Personal Projects [2022]
+---
 
 <b>--> REST API using SpringBoot [October, 2022] </b>
 
