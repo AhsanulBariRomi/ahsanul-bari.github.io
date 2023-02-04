@@ -28,7 +28,7 @@ Dutch Bangla Bank Ltd<br />
 ●	Integrating different organizations' products through vendor-provided APIs with customer-facing MFS/DFS applications. [Rocket-Biller Integration]<br/>
 ●	Monitor, analyze, and test vendor-provided software, and offer support to the suppliers. [NexusPay Application]<br/>
 ●	Develop a gateway with all the transaction logic to integrate our system with the application provided by the vendor to process all kinds of customer transaction requests. 	 [DBBL GateWay - NexusPay]<br/>
----
+<br/>
 <b>Major Achievements of 2022:</b> <br/>
 - <span style="color:Blue"> [Nov 2022] </span> - Integration of [IDTP](https://digitalmahbub.com/binimoy-platform-in-bangladesh/) in the [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html) Application. 
 <br/>
@@ -40,7 +40,7 @@ Dutch Bangla Bank Ltd<br />
 IT Development Division <br/>
 Dutch Bangla Bank Ltd.<br />
 <i style='color:#000099;'>**February 2020 - February 2021**</i>
----
+
 [Download Full CV](https://drive.google.com/file/d/1GJ9GlFGLaJQmQoj-donsIOQB4Lo1YjwF/view?usp=sharing) [<ins>*Last Updated on June 16, 2022*</ins>]
 
 ## Contact Me
