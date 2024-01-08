@@ -19,19 +19,18 @@ Dhaka, Bangladesh<br />
 <b>Senior Officer (Software Development)</b><br />
 IT Development Division <br/>
 Dutch Bangla Bank Ltd<br />
-<i style='color:#000099;'>**February 2021 - Present**</i><br/>
+<i style='color:#000099;'>**February 2021 - September 2023**</i><br/>
 
 <b>Responsibilities:</b> <br/>
-●	Develop web applications using Java Spring MVC framework and Oracle PL/SQL [NexusPay Merchant Manager] <br/>
-●	Design and develop DB architecture for internal business logic and applications (Oracle DB). [EFT Automation – Remittance System & DBBL DMS Leave Module]<br/>
-●	Develop report portals using Oracle BI Publisher and Application with Java Struts2 framework [HRMS System & DMS CTS Module]<br/>
-●	Integrating different organizations' products through vendor-provided APIs with customer-facing MFS/DFS applications. [Rocket-Biller Integration]<br/>
-●	Monitor, analyze, and test vendor-provided software, and offer support to the suppliers. [NexusPay Application]<br/>
-●	Develop a gateway with all the transaction logic to integrate our system with the application provided by the vendor to process all kinds of customer transaction requests. 	 [DBBL GateWay - NexusPay]<br/>
+● Coordinate with team lead, design and develop application process flow and Db structure for internal business logic and applications. [Java and Oracle PL/SQL]<br/>
+● Develop an intermediate API gateway with Java and Oracle PL/SQL that contains all the transactional validation and business logic to interface our system with the application provided by the vendor to process all kinds of customer transaction requests of all types of banking systems (Core Banking System, Agent Banking System, Mobile Financial System, Credit Card). [NexusPay]<br/>
+● Develop web applications using Spring MVC framework (Java) and Oracle PL/SQL [NexusPay Merchant Manager]<br/>
+● Design and develop DB architecture and process flow (Oracle PL/SQL). [EFT Automation – Remittance System]<br/>
+● Monitor, Analyze, and Test vendor-provided software, and provide support to the vendors. [NexusPay]<br/>
+● Integrated Bangla QR in NexusPay System.<br/>
+● API Documentation<br/>
 <br/>
 <b>Recent Achievements:</b> <br/>
-- <span style="color:Blue"> [Oct 2023] </span> - Moved to Germany and started MSc in [Distributed System Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering) in [Technische Universität Dresden](https://tu-dresden.de/). 
-<br/>
 - <span style="color:Blue"> [Sep 2023] </span> - Enabling transactions from abroad in the [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html) Application. 
 <br/>
 - <span style="color:Blue"> [Nov 2022] </span> - Integration of [IDTP](https://digitalmahbub.com/binimoy-platform-in-bangladesh/) in the [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html) Application. 
@@ -43,9 +42,13 @@ Dutch Bangla Bank Ltd<br />
 <b>MTO (Software Development)</b><br />
 IT Development Division <br/>
 Dutch Bangla Bank Ltd.<br />
-<i style='color:#000099;'>**February 2020 - February 2021**</i>
+<i style='color:#000099;'>**February 2020 - February 2021**</i><br />
+<b>Responsibilities</b><br />
+● Develop report portals using Oracle BI Publisher and Application with Struts2 framework. [HRMS System & DMS]<br />
+● Preparing Technical Documents, Software Requirement Specifications and Change Request Documents<br />
+● Integrating products of different organizations through their vendor-provided APIs with customer-facing applications.[Rocket (MFS)-Biller Integration]<br />
 
-[Download Full CV](https://drive.google.com/file/d/1bv9SSRFBx7LpyPiuerMqCqYZEsAc30uY/view?usp=share_link) [<ins>*Last Updated on January 30, 2023*</ins>]
+[Download Full CV](https://drive.google.com/file/d/1FW-UW3pWrGoyUlv_RNm9Vx_Dg-l12yqk/view?usp=sharinghttps://drive.google.com/file/d/1bv9SSRFBx7LpyPiuerMqCqYZEsAc30uY/view?usp=share_link) [<ins>*Last Updated on January 01, 2024*</ins>]
 
 ## Contact Me
 -------------
