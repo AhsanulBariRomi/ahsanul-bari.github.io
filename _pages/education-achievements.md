@@ -9,7 +9,12 @@ redirect_from:
 
 # Education
 
-## B.Sc. in Computer Science and Engineering
+## M.Sc. in Distributed System Engineering [01 October, 2023 - Present]
+- [Technische Universität Dresden](https://tu-dresden.de/), Dresden, Germany
+
+---
+
+## B.Sc. in Computer Science and Engineering [17 May, 2015 - 19 july, 2019]
 
 ---
 
