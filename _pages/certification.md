@@ -5,6 +5,10 @@ permalink: /certifications/
 author_profile: true
 ---
 
+- **Title:** 5G, 4G LTE, 3G, 2G; Mobile/Cellular Networks for Beginners - Udemy <br />
+  **Issuing Organization:** Udemy <br />
+  [Certificate](https://www.udemy.com/certificate/UC-538b9fe2-977a-4132-aa6f-68ff01c1fb3f/)
+  
 - **Title:** The Complete Full Stack Java Script Course<br />
   **Issuing Organization:** MSB Academy <br />
   [Certificate](https://drive.google.com/file/d/1RmUhtwVMI-tQjfkdnfxg1bCVwINDHjeD/view?usp=sharing) 
