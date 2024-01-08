@@ -29,7 +29,11 @@ Dutch Bangla Bank Ltd<br />
 ●	Monitor, analyze, and test vendor-provided software, and offer support to the suppliers. [NexusPay Application]<br/>
 ●	Develop a gateway with all the transaction logic to integrate our system with the application provided by the vendor to process all kinds of customer transaction requests. 	 [DBBL GateWay - NexusPay]<br/>
 <br/>
-<b>Major Achievements of 2022:</b> <br/>
+<b>Recent Achievements:</b> <br/>
+- <span style="color:Blue"> [Oct 2023] </span> - Moved to Germany and started MSc in [Distributed System Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering) in [Technische Universität Dresden](https://tu-dresden.de/). 
+<br/>
+- <span style="color:Blue"> [Sep 2023] </span> - Enabling transactions from abroad in the [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html) Application. 
+<br/>
 - <span style="color:Blue"> [Nov 2022] </span> - Integration of [IDTP](https://digitalmahbub.com/binimoy-platform-in-bangladesh/) in the [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html) Application. 
 <br/>
 - <span style="color:Blue"> [Jul 2022] </span> - Had the opportunity to be a key member of [BanglaQR](https://sslcommerz.com/bangla-qr/) Development process from Dutch Bangla Bank Ltd and Enabling NexusPay app to scan BanlaQR and make payments.
