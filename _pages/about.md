@@ -11,7 +11,7 @@ Greetings..!
 
 <div style="text-align: justify"> 
 
-I am Md. Ahsanul Bari (Romi). At present I am doing MSc in [Distributed System Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering) from [Technische Universität Dresden](https://tu-dresden.de/).<br />
+I am Md. Ahsanul Bari (Romi). At present I am doing MSc in <a href="https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering"> Distributed System Engineering</a> from <a href="https://tu-dresden.de/">Technische Universität Dresden</a>.<br />
 
 I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After graduation, I served the IT Development Division of <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd</a> as a Software Developer. My research interests include, but are not limited to, Data Science, Deep Learning, Metaheuristic Algorithms.<br /></div>
 
