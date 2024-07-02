@@ -20,12 +20,12 @@ redirect_from:
 - **6<sup>th</sup>** out of 152 students (120 graduates)
 
 ---
-## Higher Secondary School Certificate (Science)
+## Higher Secondary School Certificate (Science) [2010 - 2012]
 - [Dhaka Residential Model College (DRMC)](http://drmc.edu.bd/), Dhaka, Bangladesh.
 - **GPA: 5.00** <span style ="color:Green"> [*out of 5.00* ] </span>
 
 ---
-## Secondary School Certificate (Science)
+## Secondary School Certificate (Science) [2012 - 2014]
 - [Dhaka Residential Model College (DRMC)](http://drmc.edu.bd/), Dhaka, Bangladesh.
 - **GPA: 5.00** <span style ="color:Green"> [*out of 5.00* ] </span>
 
