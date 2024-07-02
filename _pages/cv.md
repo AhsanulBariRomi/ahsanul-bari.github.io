@@ -16,6 +16,16 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 
 # WORK EXPERIENCE<br/>
 -------------
+## Technical University of Munich - School of Management [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
+-------------
+<b>Student Assistant (Web Development)</b><br />
+<i style='color:#000099;'>**February 2024 - Present**</i><br/>
+
+<b>Tech Stack</b> <br/>
+Cloud, CI/CD, Docker, Kubernetes, Java17 Java Quarqus framework, Maven, JPA, GitLab<br/>
+
+<b>Responsibilities:</b> <br/>
+● REST API development using Java Quarkus framework and Oracle DB <br />
 
 ## Dutch Bangla Bank PLC - IT Development Division [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
 -------------
