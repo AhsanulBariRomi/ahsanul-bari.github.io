@@ -65,9 +65,10 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 
 
 
+**Present Office Address:**
+Work from Home
 
-
-**Address:**
+**Previous Office Address:**
 <address>
 Dutch Bangla Bank Ltd. Head Office (DBBL Tower) <br /> 
 47 Motijheel C/A (Level - 18)<br /> 
