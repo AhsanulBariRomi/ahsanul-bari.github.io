@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "education-achievements"
+title: ""
 permalink: /education-achievements/
 author_profile: true
 redirect_from:
