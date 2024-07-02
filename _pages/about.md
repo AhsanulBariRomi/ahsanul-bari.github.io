@@ -12,17 +12,16 @@ Greetings..!
 <div style="text-align: justify"> 
 
 This is Md. Ahsanul Bari (Romi). I am pursuing an M.Sc. in <a href="https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering"> Distributed System Engineering</a> at <a href="https://tu-dresden.de/">Technische Universität Dresden</a> at the moment.<br /> 
+
 Additionally employed as a Student Assistent-Web Development at <a href="https://www.mgt.tum.de/">School of Management</a>, <a href="https://www.tum.de/">Technical University of Munich</a>. <br />  
 
-I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. After graduation, I served the IT Development Division of <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd</a> as a Software Developer. 
+After completing B.Sc., I served the IT Development Division of <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd</a> as a Software Developer from February, 2020 to September, 2023. **For additional information, please check out my [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/).**<br />
 
-My research interests include, but are not limited to, Metaheuristic Algorithms, Data Science, Deep Learning.<br /></div>
+I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh in July, 2019. My research interests include, but are not limited to, Metaheuristic Algorithms, Data Science, Deep Learning.<br /></div>
 
 To highlight my leadership activities I would like to mention that I had the opportunity to serve AUST CSE Society as <b> General Secretary </b> in 2018 and later as <b> Vice President</b> in 2019.
 For more info please go through the [Activities](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)<br />
 
-
-**For additional information, please check out my [CV](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/).**
 
 ## Recent News
 - <span style="color:Blue"> [Feb 2024] </span> - Started working as Student Assistant(Web Development) in [TU Munich](https://www.tum.de/).
