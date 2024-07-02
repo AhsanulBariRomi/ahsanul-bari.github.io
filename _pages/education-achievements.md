@@ -18,6 +18,7 @@ redirect_from:
 - **CGPA: 3.73** <span style ="color:Green"> [*out of 4.00* ] </span>
 - **German Grade: 1.4** <span style ="color:Green"> [*out of 1.00* ] </span>
 - **6<sup>th</sup>** out of 152 students (120 graduates)
+- The degree is **Anabin/ZAB Acknowledged** in Germany [Document](https://drive.google.com/file/d/1ialRS5SUajESkGWtNKjB11UJWY5vGiBf/view?usp=sharing)
 
 ---
 ## Higher Secondary School Certificate (Science) [2010 - 2012]
