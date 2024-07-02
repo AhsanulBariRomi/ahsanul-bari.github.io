@@ -21,7 +21,7 @@ For additional information and responsibilities please check out my <a href="htt
 I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh in July, 2019. My research interests include, but are not limited to, Metaheuristic Algorithms, Data Science, Deep Learning.<br />
 <br />
 To highlight my leadership activities I would like to mention that I had the opportunity to serve AUST CSE Society as <b> General Secretary </b> in 2018 and later as <b> Vice President</b> in 2019.</div>
-For more information, activities, and images please go through the **Leadership Activities(https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)**<br />
+For more information, activities, and images please go through the **Leadership Activities**(https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)<br />
 
 
 ## Recent News
@@ -30,8 +30,7 @@ For more information, activities, and images please go through the **Leadership 
 - <span style="color:Blue"> [Jan 2023] </span> - Being a key member of the govt. campaign [Cashless Bangladesh, Smart Bangladesh.](https://thefinancialexpress.com.bd/economy/cashless-bd-campaign-starts-in-dhaka-1674098317)  As I have been working with the [BanglaQR](https://sslcommerz.com/bangla-qr/) project from the beginning.
 - <span style="color:Blue"> [Jan 2023] </span> - Training on Money Laundering and Terrorism Funding activities Conducted by Dutch Bangla Bank Training wing.
 - <span style="color:Blue"> [Oct 2022] </span> - Training on Cyber Security Awareness Conducted by Dutch Bangla Bank Training wing under the supervision of IT Security Division.
-- <span style="color:Blue"> [Dec 2021] </span> - Training on IT Security & Cyber Threats organised by Dutch Bangla Bank IT Deivision.
-- <span style="color:Blue"> [Dec 2021] </span> - Training on IT Security & Cyber Threats organised by Dutch Bangla Bank IT Deivision.
+- <span style="color:Blue"> [Dec 2021] </span> - Training on IT Security & Cyber Threats organised by Dutch Bangla Bank IT Security Deivision.
 - <span style="color:Blue"> [Feb 2021] </span> - Promoted to Senior Officer (Software Development), Information Technology Division, Dutch Bangla Bank.
 
 ## Recent Project Demonstrations 
