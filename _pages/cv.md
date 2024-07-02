@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## EDUCATION 
+# EDUCATION 
 -------------
 Please go through the tab [Education & Achievements](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/education-achievements/)
 <br/>
@@ -17,10 +17,9 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 -------------
 
 ## Dutch Bangla Bank PLC - IT Development Division [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
-
+-------------
 <b>Senior Officer (Software Development)</b><br />
 <i style='color:#000099;'>**February 2021 - September 2023**</i><br/>
--------------
 <b>Tech Stack</b> <br/>
 Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring framework, Struts2 framework, Oracle PL/SQL, REST API, DB Process Flow, Oracle BI Publisher, SVN<br/>
 <b>Responsibilities:</b> <br/>
@@ -42,11 +41,13 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 
 <b>MTO (Software Development)</b><br />
 <i style='color:#000099;'>**February 2020 - February 2021**</i><br />
--------------
+
 <b>Responsibilities</b><br />
-● Develop report portals using Oracle BI Publisher and Application with Struts2 framework. [HRMS System & DMS]<br />
-● Preparing Technical Documents, Software Requirement Specifications and Change Request Documents<br />
-● Integrating products of different organizations through their vendor-provided APIs with customer-facing applications.[Rocket (MFS)-Biller Integration]<br />
+● Integrate products of different organizations through their vendor-provided <b>APIs</b> with customer-facing applications. <b>[Rocket (Mobile Financial System)-Biller Integration]</b> <br />
+● Develop report portals using <b>Oracle BI Publisher</b> and Application with <b>Java Struts2 framework. [HRMS System & DMS]<b/><br />
+● IBack-end development in <b>Oracle PL/SQL. [DMS Leave Module]</b><br />
+● Preparing Technical Documents, Software Requirement Specifications, and Change Request <b>[Documentation]</b><br />
+
 
 [Download Full CV](https://drive.google.com/file/d/1FW-UW3pWrGoyUlv_RNm9Vx_Dg-l12yqk/view?usp=sharinghttps://drive.google.com/file/d/1bv9SSRFBx7LpyPiuerMqCqYZEsAc30uY/view?usp=share_link) [<ins>*Last Updated on January 01, 2024*</ins>]
 
