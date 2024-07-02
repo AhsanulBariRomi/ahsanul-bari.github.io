@@ -21,7 +21,7 @@ For additional information and responsibilities please check out my <a href="htt
 I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh in July, 2019. My research interests include, but are not limited to, Metaheuristic Algorithms, Data Science, Deep Learning.<br />
 <br />
 To highlight my leadership activities I would like to mention that I had the opportunity to serve AUST CSE Society as <b> General Secretary </b> in 2018 and later as <b> Vice President</b> in 2019.</div>
-For more information, activities, and images please go through the <b>Leadership Activities(https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)</b><br />
+For more information, activities, and images please go through the <b>Leadership Activities</b>(https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)<br />
 
 
 ## Recent News
