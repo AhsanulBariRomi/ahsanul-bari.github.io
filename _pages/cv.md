@@ -19,10 +19,11 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 ## Dutch Bangla Bank PLC - IT Development Division [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
 -------------
 <b>Senior Officer (Software Development)</b><br />
-
 <i style='color:#000099;'>**February 2021 - September 2023**</i><br/>
+
 <b>Tech Stack</b> <br/>
 Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring framework, Struts2 framework, Oracle PL/SQL, REST API, DB Process Flow, Oracle BI Publisher, SVN<br/>
+
 <b>Responsibilities:</b> <br/>
 ● Developed an intermediate <b>RESTful API gateway</b> with <b>Java and Oracle PL/SQL</b> that contains all the transactional validation and business logic to interface the Dutch Bangla Bank system with the application provided by the vendor to process all kinds of customer transaction requests of all types of banking systems <b>(Core Banking System, Agent Banking System, Mobile Financial System, Credit Card). [NexusPay] </b><br/>
 ● Develop web applications to manage NexusPay by the internal business team using <b>Java Spring MVC framework and Oracle PL/SQL [NexusPay Merchant Manager] </b> <br/>
