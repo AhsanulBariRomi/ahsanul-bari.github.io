@@ -57,11 +57,11 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 
 **Email:** <br />
 **Gmail:** wakerbari@gmail.com  [<i style='color:#000099;'>Preferable for all</i>] <br />
-**Employee:** go73jaf@mytum.de  [Preferably exclusively for TU Munich people] <br />
-**Student:** md_ahsanul.bari@mailbox.tu-dresden.de  [Preferably exclusively for TU Dresden people] <br /> 
+**Employee:** go73jaf@mytum.de  [<i style='color:#000099;'>Preferably exclusively for TU Munich people</i>] <br />
+**Student:** md_ahsanul.bari@mailbox.tu-dresden.de  [<i style='color:#000099;'>Preferably exclusively for TU Dresden people</i>] <br /> 
 
- <br /> 
  You can also find me on [LinkedIn](https://www.linkedin.com/in/ahsanulbariromi/), [Github](https://github.com/AhsanulBariRomi).<br />
+ <br /> 
 **Website:** [https://ahsanulbariromi.github.io/ahsanul-bari.github.io/](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/) 
 
 
