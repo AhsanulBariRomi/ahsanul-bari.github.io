@@ -7,28 +7,24 @@ redirect_from:
   - /resume
 ---
 
-## Education 
+## EDUCATION 
 -------------
-<b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology<br />
-Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**May 2015 - July 2019**</i>
+Please go through the tab [Education & Achievements](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/education-achievements/)
 
-## Employment [<i style='color:#000099;'>**February 2020 - Present**</i>]<br/>
+# WORK EXPERIENCE<br/>
+-------------
+
+## Dutch Bangla Bank PLC - IT Development Division [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
 -------------
 <b>Senior Officer (Software Development)</b><br />
-IT Development Division <br/>
-Dutch Bangla Bank Ltd<br />
 <i style='color:#000099;'>**February 2021 - September 2023**</i><br/>
 
 <b>Responsibilities:</b> <br/>
-● Coordinate with team lead, design and develop application process flow and Db structure for internal business logic and applications. [Java and Oracle PL/SQL]<br/>
-● Develop an intermediate API gateway with Java and Oracle PL/SQL that contains all the transactional validation and business logic to interface our system with the application provided by the vendor to process all kinds of customer transaction requests of all types of banking systems (Core Banking System, Agent Banking System, Mobile Financial System, Credit Card). [NexusPay]<br/>
-● Develop web applications using Spring MVC framework (Java) and Oracle PL/SQL [NexusPay Merchant Manager]<br/>
-● Design and develop DB architecture and process flow (Oracle PL/SQL). [EFT Automation – Remittance System]<br/>
-● Monitor, Analyze, and Test vendor-provided software, and provide support to the vendors. [NexusPay]<br/>
-● Integrated Bangla QR in NexusPay System.<br/>
-● API Documentation<br/>
+● Developed an intermediate <b>RESTful API gateway</b> with <b>Java and Oracle PL/SQL</b> that contains all the transactional validation and business logic to interface the Dutch Bangla Bank system with the application provided by the vendor to process all kinds of customer transaction requests of all types of banking systems <b>(Core Banking System, Agent Banking System, Mobile Financial System, Credit Card). [NexusPay] </b><br/>
+● Develop web applications to manage NexusPay by the internal business team using <b>Java Spring MVC framework and Oracle PL/SQL [NexusPay Merchant Manager] </b> <br/>
+● Design and develop DB architecture and process flow <b>(Oracle DB)</b> for <b>EFT Automation [Remittance System]</b><br/>
+● <b>Monitor, Analyze, and Manually Test</b> vendor-provided software, and provide support to the vendors. <b>[NexusPay]</b><br/>
+● Integrated <b>Bangla QR</b> in NexusPay System developed using <b>Oracle PL/SQL and Java Jersey framework</b><br/>
 <br/>
 <b>Recent Achievements:</b> <br/>
 - <span style="color:Blue"> [Sep 2023] </span> - Enabling transactions from abroad in the [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html) Application. 
