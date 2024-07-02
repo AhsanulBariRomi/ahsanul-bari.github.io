@@ -38,10 +38,9 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 - <span style="color:Blue"> [Jul 2022] </span> - Had the opportunity to be a key member of [BanglaQR](https://sslcommerz.com/bangla-qr/) Development process from Dutch Bangla Bank Ltd and Enabling NexusPay app to scan BanlaQR and make payments.
 
 - <span style="color:Blue"> [May 2022] </span> - Complete Back End Development of DBBL [remittance](https://en.wikipedia.org/wiki/Remittances_to_Bangladesh) system [EFT](https://en.wikipedia.org/wiki/Electronic_funds_transfer) automation which used to be handled manually.
+
 -------------
 <b>MTO (Software Development)</b><br />
-IT Development Division <br/>
-Dutch Bangla Bank Ltd.<br />
 <i style='color:#000099;'>**February 2020 - February 2021**</i><br />
 <b>Responsibilities</b><br />
 ● Develop report portals using Oracle BI Publisher and Application with Struts2 framework. [HRMS System & DMS]<br />
