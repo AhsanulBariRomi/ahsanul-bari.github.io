@@ -26,7 +26,7 @@ For more information and images please go through the [Leadership Activities](ht
 
 ## Recent News
 - <span style="color:Blue"> [Feb 2024] </span> - Started working as Student Assistant(Web Development) in [TU Munich](https://www.tum.de/).
-- <span style="color:Blue"> [Oct 2023] </span> - Moved to Germany and started MSc in [Distributed System Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering) in [Technische Universität Dresden](https://tu-dresden.de/).
+- <span style="color:Blue"> [Oct 2023] </span> - Moved to Germany and started MSc in [Distributed System Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering) in [TU Dresden](https://tu-dresden.de/).
 - <span style="color:Blue"> [Jan 2023] </span> - Being a key member of the govt. campaign [Cashless Bangladesh, Smart Bangladesh.](https://thefinancialexpress.com.bd/economy/cashless-bd-campaign-starts-in-dhaka-1674098317)  As I have been working with the [BanglaQR](https://sslcommerz.com/bangla-qr/) project from the beginning.
 - <span style="color:Blue"> [Jan 2023] </span> - Training on Money Laundering and Terrorism Funding activities Conducted by Dutch Bangla Bank Training wing.
 - <span style="color:Blue"> [Oct 2022] </span> - Training on Cyber Security Awareness Conducted by Dutch Bangla Bank Training wing under the supervision of IT Security Division.
