@@ -15,8 +15,8 @@ This is Md. Ahsanul Bari (Romi). I am pursuing an M.Sc. in <a href="https://tu-d
 
 Additionally employed as a Student Assistent-Web Development at <a href="https://www.mgt.tum.de/">School of Management</a>, <a href="https://www.tum.de/">Technical University of Munich</a>. <br />  
 <br />
-After completing B.Sc., I served the IT Development Division of <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd</a> as a Software Developer from February 2020 to September 2023. 
-**For additional information and responsibilities please check out my <a href="https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/">[CV]</a><br />
+After completing B.Sc., I served the IT Development Division of <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd</a> as a Software Developer from February 2020 to September 2023. <br />
+For additional information and responsibilities please check out my <a href="https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/">[CV]</a><br />
 <br />
 I have completed B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh in July, 2019. My research interests include, but are not limited to, Metaheuristic Algorithms, Data Science, Deep Learning.<br />
 <br />
