@@ -36,7 +36,7 @@ redirect_from:
 # Achievements
 
 - Worked as The **Vice-president** of AUST CSE Society(Fall-18). [Activities](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)<br />
-- Worked as The **General Secretary** of AUST CSE Society(Spring-18).
+- Worked as The **General Secretary** of AUST CSE Society(Spring-18). <br />
   (Faculty members select candidates not just on the basis of their academic status but also on their potential for leadership. Following selection, the candidates face off in an election. Every student in the society takes part in the voting process.)
 - 100+ online judge problem solved.
 - 7th Position, Intra AUST Programming Contest CONTEST-Spring 2016.
