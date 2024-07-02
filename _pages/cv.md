@@ -54,7 +54,7 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 ## Contact Me
 -------------
 
-**Email:** wakerbari[at] gmail [dot] com <br /> 
+**Email:** wakerbari@gmail.com <br /> 
  <br /> 
 **Website:** [https://ahsanulbariromi.github.io/ahsanul-bari.github.io/](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/) <br />
 
