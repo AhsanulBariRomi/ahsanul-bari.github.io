@@ -45,8 +45,8 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 
 <b>Responsibilities</b><br />
 ● Integrate products of different organizations through their vendor-provided <b>APIs</b> with customer-facing applications. <b>[Rocket (Mobile Financial System)-Biller Integration]</b> <br />
-● Develop report portals using <b>Oracle BI Publisher</b> and Application with <b>Java Struts2 framework. [HRMS System & DMS]<b/><br />
-● IBack-end development in <b>Oracle PL/SQL. [DMS Leave Module]</b><br />
+● Develop report portals using <b>Oracle BI Publisher</b> and Application with <b>Java Struts2 framework. [HRMS System & DMS]</b><br />
+● Back-end development in <b>Oracle PL/SQL. [DMS Leave Module]</b><br />
 ● Preparing Technical Documents, Software Requirement Specifications, and Change Request <b>[Documentation]</b><br />
 
 
@@ -66,7 +66,7 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 
 
 **Present Office Address:**
-Work from Home
+Work from Home 
 
 **Previous Office Address:**
 <address>
