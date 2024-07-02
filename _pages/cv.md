@@ -18,8 +18,8 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 
 ## Dutch Bangla Bank PLC - IT Development Division [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
 -------------
-##Senior Officer (Software Development)<br />
--------------
+<b>Senior Officer (Software Development)</b><br />
+
 <i style='color:#000099;'>**February 2021 - September 2023**</i><br/>
 <b>Tech Stack</b> <br/>
 Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring framework, Struts2 framework, Oracle PL/SQL, REST API, DB Process Flow, Oracle BI Publisher, SVN<br/>
