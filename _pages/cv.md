@@ -11,7 +11,7 @@ redirect_from:
 -------------
 Please go through the tab [Education & Achievements](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/education-achievements/)
 <br/>
--------------
+
 
 # WORK EXPERIENCE<br/>
 -------------
@@ -20,7 +20,7 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 
 <b>Senior Officer (Software Development)</b><br />
 <i style='color:#000099;'>**February 2021 - September 2023**</i><br/>
-
+-------------
 <b>Tech Stack</b> <br/>
 Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring framework, Struts2 framework, Oracle PL/SQL, REST API, DB Process Flow, Oracle BI Publisher, SVN<br/>
 <b>Responsibilities:</b> <br/>
@@ -39,9 +39,10 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 
 - <span style="color:Blue"> [May 2022] </span> - Complete Back End Development of DBBL [remittance](https://en.wikipedia.org/wiki/Remittances_to_Bangladesh) system [EFT](https://en.wikipedia.org/wiki/Electronic_funds_transfer) automation which used to be handled manually.
 
--------------
+
 <b>MTO (Software Development)</b><br />
 <i style='color:#000099;'>**February 2020 - February 2021**</i><br />
+-------------
 <b>Responsibilities</b><br />
 ● Develop report portals using Oracle BI Publisher and Application with Struts2 framework. [HRMS System & DMS]<br />
 ● Preparing Technical Documents, Software Requirement Specifications and Change Request Documents<br />
