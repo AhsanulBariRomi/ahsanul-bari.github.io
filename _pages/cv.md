@@ -16,7 +16,7 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 
 # WORK EXPERIENCE<br/>
 -------------
-## Technical University of Munich - School of Management [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
+## Technical University of Munich - School of Management [<i style='color:#000099;'>**February 2024 - Present**</i>]<br/>
 -------------
 <b>Student Assistant (Web Development)</b><br />
 <i style='color:#000099;'>**February 2024 - Present**</i><br/>
