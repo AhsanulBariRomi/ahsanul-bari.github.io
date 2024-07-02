@@ -14,12 +14,20 @@ redirect_from:
 
 ---
 ## B.Sc. in Computer Science and Engineering [17 May, 2015 - 19 july, 2019]
----
-
 - [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh.
 - **CGPA: 3.73** <span style ="color:Green"> [*out of 4.00* ] </span>
 - **German Grade: 1.4** <span style ="color:Green"> [*out of 1.00* ] </span>
 - **6<sup>th</sup>** out of 152 students (120 graduates)
+
+---
+## Higher Secondary School Certificate (Science)
+- [Dhaka Residential Model College (DRMC)](http://drmc.edu.bd/), Dhaka, Bangladesh.
+- **GPA: 5.00** <span style ="color:Green"> [*out of 5.00* ] </span>
+
+---
+## Secondary School Certificate (Science)
+- [Dhaka Residential Model College (DRMC)](http://drmc.edu.bd/), Dhaka, Bangladesh.
+- **GPA: 5.00** <span style ="color:Green"> [*out of 5.00* ] </span>
 
 ---
 
