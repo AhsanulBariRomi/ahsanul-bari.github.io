@@ -18,7 +18,7 @@ Please go through the tab [Education & Achievements](https://ahsanulbariromi.git
 
 ## Dutch Bangla Bank PLC - IT Development Division [<i style='color:#000099;'>**February 2020 - September 2023**</i>]<br/>
 -------------
-<b>Senior Officer (Software Development)</b><br />
+##Senior Officer (Software Development)<br />
 <i style='color:#000099;'>**February 2021 - September 2023**</i><br/>
 <b>Tech Stack</b> <br/>
 Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring framework, Struts2 framework, Oracle PL/SQL, REST API, DB Process Flow, Oracle BI Publisher, SVN<br/>
@@ -51,7 +51,7 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 
 [Download Full CV](https://drive.google.com/file/d/1FW-UW3pWrGoyUlv_RNm9Vx_Dg-l12yqk/view?usp=sharinghttps://drive.google.com/file/d/1bv9SSRFBx7LpyPiuerMqCqYZEsAc30uY/view?usp=share_link) [<ins>*Last Updated on January 01, 2024*</ins>]
 
-## Contact Me
+# Contact Me
 -------------
 
 **Email:** <br />
@@ -60,9 +60,10 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 **Student:**md_ahsanul.bari@mailbox.tu-dresden.de  [Preferably exclusively for TU Dresden people] <br /> 
 
  <br /> 
-**Website:** [https://ahsanulbariromi.github.io/ahsanul-bari.github.io/](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/) <br />
+ You can also find me on [LinkedIn](https://www.linkedin.com/in/ahsanulbariromi/), [Github](https://github.com/AhsanulBariRomi).<br />
+**Website:** [https://ahsanulbariromi.github.io/ahsanul-bari.github.io/](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/) 
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ahsanulbariromi/), [Github](https://github.com/AhsanulBariRomi).
+
 
 
 
