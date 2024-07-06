@@ -5,7 +5,11 @@ permalink: /certifications/
 author_profile: true
 ---
 
-- **Title:** 5G, 4G LTE, 3G, 2G; Mobile/Cellular Networks for Beginners - Udemy <br />
+- **Title:** The Ultimate WLAN and WiFi Training Course<br />
+  **Issuing Organization:** Udemy <br />
+  [Certificate](https://www.udemy.com/certificate/UC-613b5c61-25f3-4ba2-aa70-ce664089a35d/)
+
+- **Title:** 5G, 4G LTE, 3G, 2G; Mobile/Cellular Networks for Beginners<br />
   **Issuing Organization:** Udemy <br />
   [Certificate](https://www.udemy.com/certificate/UC-538b9fe2-977a-4132-aa6f-68ff01c1fb3f/)
   
