@@ -25,7 +25,7 @@ For more information, activities, and images please go through the <a href="http
 
 
 ## Recent News
-- <span style="color:Blue"> [Oct 2024] </span> - Awarded the prestigious [Deutschland Stipendium](https://tu-dresden.de/studium/rund-ums-studium/foerderung-und-finanzierung/deutschlandstipendium) for the academic year 2024/25, recognizing outstanding academic performance and social commitment.
+- <span style="color:Blue"> [Oct 2024] </span> - Awarded the prestigious [Deutschland Stipendium](https://tu-dresden.de/studium/rund-ums-studium/foerderung-und-finanzierung/deutschlandstipendium) for the academic year 2024/25, a national scholarship funded by the German government and private sponsors, in recognition of academic excellence and social commitment.
 - <span style="color:Blue"> [Feb 2024] </span> - Started working as Student Assistant(Web Development) in [TU Munich](https://www.tum.de/).
 - <span style="color:Blue"> [Oct 2023] </span> - Moved to Germany and started MSc in [Distributed System Engineering](https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering) in [TU Dresden](https://tu-dresden.de/).
 - <span style="color:Blue"> [Jan 2023] </span> - Being a key member of the govt. campaign [Cashless Bangladesh, Smart Bangladesh.](https://thefinancialexpress.com.bd/economy/cashless-bd-campaign-starts-in-dhaka-1674098317)  As I have been working with the [BanglaQR](https://sslcommerz.com/bangla-qr/) project from the beginning.
