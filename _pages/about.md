@@ -13,7 +13,7 @@ Greetings..!
 
 This is Md. Ahsanul Bari (Romi). I am pursuing an M.Sc. in <a href="https://tu-dresden.de/ing/informatik/studium/studienangebot/master-studiengaenge/distributed-systems-engineering"> Distributed System Engineering</a> at <a href="https://tu-dresden.de/">Technische Universität Dresden</a> at the moment.<br /> 
 
-Additionally employed as a Student Assistent-Web Development at <a href="https://www.mgt.tum.de/">School of Management</a>, <a href="https://www.tum.de/">Technical University of Munich</a>. <br />  
+Additionally employed as a Student Scientist-Web Development at <a href="https://www.mgt.tum.de/">School of Management</a>, <a href="https://www.tum.de/">Technical University of Munich</a>. <br />  
 <br />
 After completing B.Sc., I served the IT Development Division of <a href="https://www.dutchbanglabank.com/"> Dutch Bangla bank Ltd</a> as a Software Developer from February 2020 to September 2023. <br />
 For additional information and responsibilities please check out my <a href="https://ahsanulbariromi.github.io/ahsanul-bari.github.io/cv/"><b>CV</b></a><br />
