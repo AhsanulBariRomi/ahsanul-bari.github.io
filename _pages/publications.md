@@ -9,7 +9,8 @@ author_profile: true
 ## 2024
 
 ---
-"A Case Study on Hybridizing Differential Evolution Variants in The Field of Optimization Using Benchmark Functions" - accepted at [ICCIT 2024](https://iccit.org.bd/2024/home/) – the 27th International Conference on Computer and Information Technology. [Paper](https://drive.google.com/file/d/1OQNXe1mXuUGVlLQHB8t3U9uB4aDYl-lQ/view?usp=sharing)
+- "A Case Study on Hybridizing Differential Evolution Variants in The Field of Optimization Using Benchmark Functions" - accepted at [ICCIT 2024](https://iccit.org.bd/2024/home/) – the 27th International Conference on Computer and Information Technology. [Paper](https://drive.google.com/file/d/1OQNXe1mXuUGVlLQHB8t3U9uB4aDYl-lQ/view?usp=sharing)  
+Authors: **Md Ahsanul Bari**, Afrina Zahan Mithila, Mohammad Shafiul Alam  
 The paper presentation received the Best Technical Presentation of the Session Award. [Certificate](https://drive.google.com/file/d/1id8fUF_Q9R2oezZCvNZlriu2QClAgopg/view?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/186U_9hK7mqkXC6YnM-4VGPZ6VWhCKdB4/edit?usp=sharing&ouid=107859767730216986960&rtpof=true&sd=true)
 
 
