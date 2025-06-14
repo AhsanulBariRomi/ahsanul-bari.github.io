@@ -9,7 +9,7 @@ author_profile: true
 ## 2024
 
 ---
-- **Md Ahsanul Bari**, Afrina Zahan Mithila, Mohammad Shafiul Alam ["A Case Study on Hybridizing Differential Evolution Variants in The Field of Optimization Using Benchmark Functions"] (https://ieeexplore.ieee.org/document/11022468) 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2024, pp. 2333-2338, doi: 10.1109/ICCIT64611.2024.11022468. [PDF](https://drive.google.com/file/d/1OQNXe1mXuUGVlLQHB8t3U9uB4aDYl-lQ/view?usp=sharing)  
+- **Md Ahsanul Bari**, Afrina Zahan Mithila, Mohammad Shafiul Alam ["A Case Study on Hybridizing Differential Evolution Variants in The Field of Optimization Using Benchmark Functions"](https://ieeexplore.ieee.org/document/11022468) 2024 27th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2024, pp. 2333-2338, doi: 10.1109/ICCIT64611.2024.11022468. [PDF](https://drive.google.com/file/d/1OQNXe1mXuUGVlLQHB8t3U9uB4aDYl-lQ/view?usp=sharing)  
 	- The paper presentation received the Best Technical Presentation of the Session Award. [Certificate](https://drive.google.com/file/d/1id8fUF_Q9R2oezZCvNZlriu2QClAgopg/view?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/186U_9hK7mqkXC6YnM-4VGPZ6VWhCKdB4/edit?usp=sharing&ouid=107859767730216986960&rtpof=true&sd=true)
 
 
