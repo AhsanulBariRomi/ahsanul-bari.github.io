@@ -36,6 +36,7 @@ For more information, activities, and images please go through the <a href="http
 - <span style="color:Blue"> [Dec 2021] </span> - Training on IT Security & Cyber Threats organised by Dutch Bangla Bank IT Security Deivision.
 - <span style="color:Blue"> [Feb 2021] </span> - Promoted to Senior Officer (Software Development), Information Technology Division, Dutch Bangla Bank.
 
+{% comment %}
 ## Recent Project Demonstrations 
 
 <b>--> REST API using SpringBoot [October, 2022] </b>
@@ -50,3 +51,4 @@ For more information, activities, and images please go through the <a href="http
 - A shop web server with nodeJS [Demo Video](https://www.youtube.com/watch?v=FJtUcVkxkIQ)
 
 ---
+{% comment %}
