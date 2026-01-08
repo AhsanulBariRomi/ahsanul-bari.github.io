@@ -4,7 +4,7 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-## Personal Projects [2022]
+## Personal Projects [2026]
 ---
 <b>--> Snowflake-PowerBI-Websales-Airlines-Project [January, 2026] </b>
 
