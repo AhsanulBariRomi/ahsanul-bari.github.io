@@ -6,6 +6,12 @@ author_profile: true
 ---
 ## Personal Projects [2022]
 ---
+<b>--> Snowflake-PowerBI-Websales-Airlines-Project [January, 2026] </b>
+
+- End-to-end data analytics project using Snowflake for Data Warehousing (Star Schema) and Power BI for visualization. Includes SQL ETL, ODBC connectivity, and advanced DAX modeling. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/Simple_SpringBoot_REST) <br />
+
+## Personal Projects [2022]
+---
 <b>--> REST API using SpringBoot [October, 2022] </b>
 
 - Simplest maven project to understand the implementation of REST API [Without any DB] [CODE_LINK](https://github.com/AhsanulBariRomi/Simple_SpringBoot_REST) <br />

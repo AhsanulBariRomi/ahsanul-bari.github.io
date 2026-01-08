@@ -5,6 +5,10 @@ permalink: /certifications/
 author_profile: true
 ---
 
+- **Title:** Applied Data Modeling Using Snowflake and Power BI<br />
+  **Issuing Organization:** Udemy <br />
+  [Certificate](https://www.udemy.com/certificate/UC-f7b503b2-db50-4172-8335-262149020c38/)
+  
 - **Title:** The Ultimate WLAN and WiFi Training Course<br />
   **Issuing Organization:** Udemy <br />
   [Certificate](https://www.udemy.com/certificate/UC-613b5c61-25f3-4ba2-aa70-ce664089a35d/)
