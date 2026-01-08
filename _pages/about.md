@@ -36,19 +36,3 @@ For more information, activities, and images please go through the <a href="http
 - <span style="color:Blue"> [Dec 2021] </span> - Training on IT Security & Cyber Threats organised by Dutch Bangla Bank IT Security Deivision.
 - <span style="color:Blue"> [Feb 2021] </span> - Promoted to Senior Officer (Software Development), Information Technology Division, Dutch Bangla Bank.
 
-{% comment %}
-## Recent Project Demonstrations 
-
-<b>--> REST API using SpringBoot [October, 2022] </b>
-
-- Simplest maven project to understand the implementation of REST API [Without any DB] [CODE_LINK](https://github.com/AhsanulBariRomi/Simple_SpringBoot_REST) <br />
-- Simplest maven project to understand the implementation of REST API [With Oracle DB] [CODE_LINK](https://github.com/AhsanulBariRomi/SpringBoot_REST_withDao)
-
-<b>--> Using JS [December, 2021] </b>
-
-- eWallet [Demo Video](https://www.youtube.com/watch?v=RC4LydV7VXs) <br />
-- TMS Prototype [Demo Video](https://www.youtube.com/watch?v=TfQlj9YMgtM) <br />
-- A shop web server with nodeJS [Demo Video](https://www.youtube.com/watch?v=FJtUcVkxkIQ)
-
----
-{% comment %}
