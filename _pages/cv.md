@@ -62,7 +62,7 @@ Data Center, Tomcat (UAT Env.), Weblogic(Prod Env.), Java8, Java11, Java Spring 
 ● Preparing Technical Documents, Software Requirement Specifications, and Change Request <b>[Documentation]</b><br />
 
 
-[Download Full CV](https://drive.google.com/file/d/1myNcb6z3wLngJkxEi_bAOnhqvz5K8bTV/view?usp=sharing) [<ins>*Last Updated on June 01, 2024*</ins>]
+[Download Full CV](https://drive.google.com/drive/folders/1B8n5sxn17Z8l8WQXmbIn8wd9PaB8CQi_?usp=sharing) [<ins>*Last Updated on February 02, 2026*</ins>]
 
 # Contact Me
 -------------
