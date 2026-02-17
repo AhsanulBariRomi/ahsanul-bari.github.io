@@ -6,7 +6,17 @@ author_profile: true
 ---
 ## Personal Projects [2026]
 ---
+<b>--> Stock Trading gRPC Client [February, 2026] </b>
 
+- This project is a Spring Boot-based gRPC client designed to fetch real-time stock data from a remote gRPC server backed by an Oracle Database. Implemented the Unary communication pattern for a simple Request-Response flow as per the server design. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/grpc-spring-boot-client) <br />
+
+<b>--> Stock Trading gRPC Server [February, 2026] </b>
+
+- A high-performance microservice built with Spring Boot and gRPC to fetch real-time stock data from an Oracle Database. Implemented the Unary communication pattern for a simple Request-Response flow. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/grpc-spring-boot-server) <br />
+
+<b>--> gRPC Protobuf Spring Boot Demo [January, 2026] </b>
+
+- This is a demonstration project for integrating gRPC and Protocol Buffers with Spring Boot. It shows how to define data structures using .proto files and generate Java code automatically. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/grpc-protobuf-spring-boot-demo) <br />
 
 <b>--> Snowflake-PowerBI-Websales-Airlines-Project [January, 2026] </b>
 
