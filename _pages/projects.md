@@ -6,6 +6,10 @@ author_profile: true
 ---
 ## Personal Projects [2026]
 ---
+<b>--> Concurrent Site Monitor - Golang [February, 2026] </b>
+
+- A high-performance, concurrent health-check tool written in Go (Golang). Designed to demonstrate Goroutines, Channels, and Cloud-Native packaging. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/go-site-monitor-system) <br />
+
 <b>--> Stock Trading gRPC Client [February, 2026] </b>
 
 - This project is a Spring Boot-based gRPC client designed to fetch real-time stock data from a remote gRPC server backed by an Oracle Database. Implemented the Unary communication pattern for a simple Request-Response flow as per the server design. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/grpc-spring-boot-client) <br />
@@ -45,8 +49,8 @@ author_profile: true
   <br />
   - Developed a secure environment for data-in-use by leveraging Intel SGX hardware enclaves to prevent unauthorized access to memory during execution. <br />
   - Implemented AES-256-GCM encryption and XOR-based key derivation within a Trusted Execution Environment (TEE) to ensure end-to-end data confidentiality. <br />
-  - Managed Remote Attestation and automated secret injection via SCONE CAS, utilizing TOTP for secure enclave authentication. <br />
- *TOOLS:* 
+  - Managed Remote Attestation and automated secret injection via SCONE CAS, utilizing TOTP for secure enclave authentication. <br /><br />
+ <b>*TOOLS:*</b> 
   <i style='color:#000099;'>Hardware:</i> Intel SGX, <i style='color:#000099;'>Framework:</i> SCONE (CAS/LAS), <i style='color:#000099;'>Languages:</i> C (scone-gcc), YAML, <i style='color:#000099;'>Security:</i> OpenSSL, AES-GCM, <i style='color:#000099;'>MFA:</i> TOTP (oathtool) 
   [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/scone-sgx-confidential-computing-demo)
   <br />
