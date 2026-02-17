@@ -6,9 +6,28 @@ author_profile: true
 ---
 ## Personal Projects [2026]
 ---
+
+
 <b>--> Snowflake-PowerBI-Websales-Airlines-Project [January, 2026] </b>
 
 - End-to-end data analytics project using Snowflake for Data Warehousing (Star Schema) and Power BI for visualization. Includes SQL ETL, ODBC connectivity, and advanced DAX modeling. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/Snowflake-PowerBI-Websales-Airlines-Project) <br />
+
+
+<b>--> Omnet++ + Veins + SUMO Hello World Demo [January, 2026] </b>
+
+- This project demonstrates a basic Co-Simulation of a Vehicular Ad-hoc Network (VANET) using OMNeT++ and SUMO, bridged by the Veins framework. It features a simple road network where a vehicle's movement in SUMO is mirrored as a communicating node in OMNeT++. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/veins-co-simulation-demo-helloworld) <br />
+
+## Personal Projects [2025]
+---
+<b>--> Basic Traffic Simulation Network - SUMO demo [December, 2025] </b>
+
+- This project demonstrates a simple traffic simulation created from scratch using SUMO (Simulation of Urban MObility). It features a custom network created on a GIS map with configured vehicular flows and traffic logic. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/SUMO-Traffic-Simulation) <br />
+
+
+<b>--> TicToc Mesh Network Simulation - OMNeT++ demo [December, 2025] </b>
+
+- A discrete event simulation project built with OMNeT++ that models a dynamic mesh network using custom routing protocols, stochastic packet loss, and performance statistical analysis. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/tictoc-mesh-network) <br />
+
 
 ## Masters Course Project [2024]
 ---
@@ -17,7 +36,7 @@ author_profile: true
   - Developed a secure environment for data-in-use by leveraging Intel SGX hardware enclaves to prevent unauthorized access to memory during execution. <br />
   - Implemented AES-256-GCM encryption and XOR-based key derivation within a Trusted Execution Environment (TEE) to ensure end-to-end data confidentiality. <br />
   - Managed Remote Attestation and automated secret injection via SCONE CAS, utilizing TOTP for secure enclave authentication. <br />
-  *TOOLS:* 
+ *TOOLS:* 
   <i style='color:#000099;'>Hardware:</i> Intel SGX, <i style='color:#000099;'>Framework:</i> SCONE (CAS/LAS), <i style='color:#000099;'>Languages:</i> C (scone-gcc), YAML, <i style='color:#000099;'>Security:</i> OpenSSL, AES-GCM, <i style='color:#000099;'>MFA:</i> TOTP (oathtool) 
   [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/scone-sgx-confidential-computing-demo)
   <br />
