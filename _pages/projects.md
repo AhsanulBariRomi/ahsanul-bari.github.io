@@ -10,6 +10,18 @@ author_profile: true
 
 - End-to-end data analytics project using Snowflake for Data Warehousing (Star Schema) and Power BI for visualization. Includes SQL ETL, ODBC connectivity, and advanced DAX modeling. [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/Snowflake-PowerBI-Websales-Airlines-Project) <br />
 
+## Masters Course Project [2024]
+---
+<b>--> Confidential Computing with Intel SGX & SCONE [October, 2024] </b>
+  <br />
+  - Developed a secure environment for data-in-use by leveraging Intel SGX hardware enclaves to prevent unauthorized access to memory during execution. <br />
+  - Implemented AES-256-GCM encryption and XOR-based key derivation within a Trusted Execution Environment (TEE) to ensure end-to-end data confidentiality. <br />
+  - Managed Remote Attestation and automated secret injection via SCONE CAS, utilizing TOTP for secure enclave authentication. <br />
+  *TOOLS:* 
+  <i style='color:#000099;'>Hardware:</i> Intel SGX, <i style='color:#000099;'>Framework:</i> SCONE (CAS/LAS), <i style='color:#000099;'>Languages:</i> C (scone-gcc), YAML, <i style='color:#000099;'>Security:</i> OpenSSL, AES-GCM, <i style='color:#000099;'>MFA:</i> TOTP (oathtool) 
+  [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/scone-sgx-confidential-computing-demo)
+  <br />
+
 ## Personal Projects [2022]
 ---
 <b>--> REST API using SpringBoot [October, 2022] </b>
