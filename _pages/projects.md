@@ -45,7 +45,7 @@ author_profile: true
 
 ## Masters Course Project [2024]
 ---
-<b>--> Containerized Benchmarking Infrastructure for Memcached [January, 2025] </b>
+<b>--> Containerized Benchmarking Infrastructure for Memcached [December, 2024] </b>
   <br />
   - Engineered a containerized benchmarking architecture using Docker and docker compose to isolate a Memcached server, built directly from source, alongside a dedicated client environment. <br />
   - Configured secure inter-container communication via SSH, enforcing strict non-root user permissions (id=1000) and automated key-based authentication. <br />
