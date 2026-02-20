@@ -35,13 +35,13 @@ redirect_from:
 
 # Achievements
 
-- Best Technical Presentation of the Session 27th International Conference on Computer and Information Technology (ICCIT), December 2024 Awarded for the presentation of the research paper: "A Case Study on Hybridizing Differential Evolution Variants in The Field of Optimization Using Benchmark Functions." [Certificate](https://drive.google.com/file/d/1id8fUF_Q9R2oezZCvNZlriu2QClAgopg/view?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/186U_9hK7mqkXC6YnM-4VGPZ6VWhCKdB4/edit?usp=sharing&ouid=107859767730216986960&rtpof=true&sd=true)
-- Awarded the prestigious [Deutschland Stipendium]Awarded the prestigious [Deutschland Stipendium](https://tu-dresden.de/studium/rund-ums-studium/foerderung-und-finanzierung/deutschlandstipendium) for the academic year 2024/25, a national scholarship funded by the German government and private sponsors, in recognition of academic excellence and social commitment.
+- **Best Technical Presentation of the Session**, 27th International Conference on Computer and Information Technology (ICCIT), December 2024 Awarded for the presentation of the research paper: "A Case Study on Hybridizing Differential Evolution Variants in The Field of Optimization Using Benchmark Functions." [Certificate](https://drive.google.com/file/d/1id8fUF_Q9R2oezZCvNZlriu2QClAgopg/view?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/186U_9hK7mqkXC6YnM-4VGPZ6VWhCKdB4/edit?usp=sharing&ouid=107859767730216986960&rtpof=true&sd=true)
+- Awarded the prestigious [**Deutschland Stipendium**](https://tu-dresden.de/studium/rund-ums-studium/foerderung-und-finanzierung/deutschlandstipendium) for the academic year 2024/25, a national scholarship funded by the German government and private sponsors, in recognition of academic excellence and social commitment.
 - Worked as The **Vice-president** of AUST CSE Society(Fall-18). [Activities](https://ahsanulbariromi.github.io/ahsanul-bari.github.io/activities/)<br />
 - Worked as The **General Secretary** of AUST CSE Society(Spring-18). <br />
   (Faculty members select candidates not just on the basis of their academic status but also on their potential for leadership. Following selection, the candidates face off in an election. Every student in the society takes part in the voting process.)
-- 100+ online judge problem solved.
-- 7th Position, Intra AUST Programming Contest CONTEST-Spring 2016.
+- 100+ online judge **problem solved**.
+- 7th Position, Intra AUST **Programming Contest**-Spring 2016.
 - Achieved junior **scholarship in talent pool** under Dhaka division from the government of Bangladesh in 2009.
 
 
