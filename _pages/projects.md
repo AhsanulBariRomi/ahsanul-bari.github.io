@@ -45,6 +45,16 @@ author_profile: true
 
 ## Masters Course Project [2024]
 ---
+<b>--> Containerized Benchmarking Infrastructure for Memcached [January, 2025] </b>
+  <br />
+  - Engineered a containerized benchmarking architecture using Docker and docker compose to isolate a Memcached server, built directly from source, alongside a dedicated client environment. <br />
+  - Configured secure inter-container communication via SSH, enforcing strict non-root user permissions (id=1000) and automated key-based authentication. <br />
+  - Deployed required dependencies (mcperf, dude, R) to support an automated CI evaluation pipeline capable of measuring server throughput and latency under load. <br /><br />
+ <b>*TOOLS:*</b> 
+  <i style='color:#000099;'>Infrastructure:</i> Docker, docker compose, <i style='color:#000099;'>Target:</i> Memcached, <i style='color:#000099;'>Benchmarking:</i> mcperf, dude, <i style='color:#000099;'>Visualization:</i> R (lattice), <i style='color:#000099;'>OS:</i> Ubuntu 16.04 LTS
+  [CODE AND DESCRIPTION LINK](https://github.com/AhsanulBariRomi/Memcached-Performance-Benchmarking)
+  <br />
+  
 <b>--> Confidential Computing with Intel SGX & SCONE [October, 2024] </b>
   <br />
   - Developed a secure environment for data-in-use by leveraging Intel SGX hardware enclaves to prevent unauthorized access to memory during execution. <br />
@@ -79,7 +89,7 @@ author_profile: true
   <br />
   This is a simple debit credit system for a banks savings account. End users at different branches of the bank maintains the customers and their accounts. Admins maintains the end users.
   <br />
-  *TOOLS:* 
+  <b>*TOOLS:*</b> 
   <i style='color:#000099;'>IDE:</i> Eclipse Enterprise Edition v.2020-03, <i style='color:#000099;'> Framework:</i> Struts 2.5, <i style='color:#000099;'>Platform:</i> Java 1.8, <i style='color:#000099;'>Web Server: </i> Apache Tomcat 8.5, <i style='color:#000099;'>Database:</i> Oracle 11g, <i style='color:#000099;'>API:</i> Java Servlet 3.0.1
   [CODE](https://github.com/AhsanulBariRomi/DEBIT-CREDIT-APP)
 
